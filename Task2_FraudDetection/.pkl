@@ -1,1 +1,5 @@
+### Task 2: Credit Card Fraud Detection
 
+- Notebook: [`fraud_detection.ipynb`](Task2_FraudDetection/fraud_detection.ipynb)
+- 📦 Model: [Download fraud_model.pkl from Google Drive](https://drive.google.com/file/d/1jkCgGruZCOSYOCJI1NnoNPTRh0wy2Kk0/view?usp=drive_link)
+https://drive.google.com/file/d/1jkCgGruZCOSYOCJI1NnoNPTRh0wy2Kk0/view?usp=drive_link
