@@ -79,7 +79,16 @@ All projects have a corresponding video demo posted on [LinkedIn](https://www.li
 
 
 ---
+### Task 2: Credit Card Fraud Detection
 
+- Notebook: [`fraud_detection.ipynb`](Task2_FraudDetection/fraud_detection.ipynb)
+- 📦 Model: [Download fraud_model.pkl from Google Drive](https://drive.google.com/file/d/1jkCgGruZCOSYOCJI1NnoNPTRh0wy2Kk0/view?usp=drive_link)
+---
+### Task 5: Handwritten Text Generation
+
+- Notebook: [`handwriting_rnn.ipynb`](Task5_HandwritingGen/handwriting_rnn.ipynb)
+- 📦 Model: [Download handwriting_rnn_model.h5 from Google Drive](https://drive.google.com/file/d/1Kepw5IAAKyOIWIH2DgIJeqSpTbhKK55b/view?usp=drive_link)
+---
 ## 🙏 Acknowledgment
 
 Big thanks to **CodSoft** for providing this opportunity to explore core machine learning concepts through hands-on projects.
