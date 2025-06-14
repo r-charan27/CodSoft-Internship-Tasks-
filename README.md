@@ -100,7 +100,7 @@ Big thanks to **CodSoft** for providing this opportunity to explore core machine
 This internship and all projects were completed as part of the **CodSoft Machine Learning Internship**.
 
 🔗 [Visit CodSoft on LinkedIn](https://www.linkedin.com/company/codsoft/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BSEs9OP5LQaaL4k26xzw%2FBA%3D%3D)
-
+Emailid :contact@codsoft.in
 ---
 
 ## 📬 Connect With Me
@@ -108,6 +108,7 @@ This internship and all projects were completed as part of the **CodSoft Machine
 **[MUMMADI RAMCHRAN]**  
 📧 Email: rcmummadi@gmail.com 
 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/ramcharan-mummadi-5973a72a3)
+Emailid :contact@codsoft.in
 
 ---
 
