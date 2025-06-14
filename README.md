@@ -86,7 +86,7 @@ All projects have a corresponding video demo posted on [LinkedIn](https://www.li
 ---
 ### Task 5: Handwritten Text Generation
 
-- Notebook: [`handwriting_rnn.ipynb`](Task5_HandwritingGen/handwriting_rnn.ipynb)
+- Notebook: [`handwriting_rnn.ipynb`](https://github.com/r-charan27/CodSoft_taskno/blob/462699ae1fd024533e84ef5f35c4086f68b79177/Task5_HandwritingGen/CodSoft%20M.L%20Task-5.ipynb)
 - 📦 Model: [Download handwriting_rnn_model.h5 from Google Drive](https://drive.google.com/file/d/1Kepw5IAAKyOIWIH2DgIJeqSpTbhKK55b/view?usp=drive_link)
 ---
 ## 🙏 Acknowledgment
