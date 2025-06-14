@@ -102,7 +102,9 @@ This internship and all projects were completed as part of the **CodSoft Machine
 🔗 [Visit CodSoft on LinkedIn](https://www.linkedin.com/company/codsoft/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BSEs9OP5LQaaL4k26xzw%2FBA%3D%3D)
 Emailid :contact@codsoft.in
 ---
-
+My experience with CodSoft
+https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_my-experience-with-codsoft-participating-activity-7339543542995800064-vyCi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw
+---
 ## 📬 Connect With Me
 
 **[MUMMADI RAMCHRAN]**  
