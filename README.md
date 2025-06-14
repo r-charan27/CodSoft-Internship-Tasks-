@@ -108,7 +108,6 @@ Emailid :contact@codsoft.in
 **[MUMMADI RAMCHRAN]**  
 📧 Email: rcmummadi@gmail.com 
 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/ramcharan-mummadi-5973a72a3)
-Emailid :contact@codsoft.in
 
 ---
 
