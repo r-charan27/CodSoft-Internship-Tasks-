@@ -81,7 +81,7 @@ All projects have a corresponding video demo posted on [LinkedIn](https://www.li
 ---
 ### Task 2: Credit Card Fraud Detection
 
-- Notebook: [`fraud_detection.ipynb`](Task2_FraudDetection/fraud_detection.ipynb)
+- Notebook: [`fraud_detection.ipynb`](https://github.com/r-charan27/CodSoft_taskno/blob/29f6d2cfa168062eb562d0693c28dc801836ca2e/Task2_FraudDetection/CodSoft%20M.L%20Task-2%20.ipynb)
 - 📦 Model: [Download fraud_model.pkl from Google Drive](https://drive.google.com/file/d/1jkCgGruZCOSYOCJI1NnoNPTRh0wy2Kk0/view?usp=drive_link)
 ---
 ### Task 5: Handwritten Text Generation
