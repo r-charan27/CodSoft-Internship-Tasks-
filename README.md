@@ -107,7 +107,7 @@ https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_my-experience-with-co
 ---
 ## 📬 Connect With Me
 
-**[MUMMADI RAMCHRAN]**  
+**[MUMMADI RAMCHARAN]**  
 📧 Email: rcmummadi@gmail.com 
 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/ramcharan-mummadi-5973a72a3)
 
